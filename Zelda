@@ -4,120 +4,140 @@
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 960,
-                 "Y" : 455
+                 "Y" : 455,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/14.png"
    },{
                  "nombre": "Entrada al Castillo",
                  "Categoría" : "Entrada a Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 960,
-                 "Y" : 574
+                 "Y" : 574,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/15.png"
    },{
                  "nombre": "Bosques Perdidos",
                  "Categoría" : "Entrada",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 542,
-                 "Y" : 314
+                 "Y" : 314,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/2.png"
    },{
                  "nombre": "Master Sword",
                  "Categoría" : "Objeto",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 567,
-                 "Y" : 172
+                 "Y" : 172,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/3.jpg"
    },{
                  "nombre": "Kakariko Village",
                  "Categoría" : "Lugar",
 		 "Enemigos" : "Peligro: Inexistente",
                  "X" : 604,
-                 "Y": 575
+                 "Y": 575,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/5.png"
    },{
                  "nombre": "Casa de Link",
                  "Categoría" : "Casa",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1001,
-                 "Y" : 730
+                 "Y" : 730,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/8.jpg"
    },{
                  "nombre": "Tienda del Lago Hylia",
                  "Categoría" : "Tienda",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1118,
-                 "Y": 853
+                 "Y": 853,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/16.png"
    },{
                  "nombre": "Torre de Hera",
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1054,
-                 "Y": 56
+                 "Y": 56,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/11.png"
    },{
                  "nombre": "Casa de Gales",
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1260,
-                 "Y" : 894
+                 "Y" : 894,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/17.png"
    },{
 	         "nombre": "Palacio del Pantano",
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 934,
-                 "Y": 989
+                 "Y": 989,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/7.png"
    },{
 	         "nombre": "Cementerio de Hyrule",
                  "Categoría" : "Lugar",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1027,
-                 "Y": 350
+                 "Y": 350,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/13.png"
    },{
 	         "nombre": "Casa de la bruja",
                  "Categoría" : "Casa",
  		 "Enemigos" : "Peligro: Presente",
                  "X" : 1263,
-                 "Y": 356
+                 "Y": 356,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/18.png"
    },{
 	         "nombre": "Palacio del Desierto",
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 516,
-                 "Y": 910
+                 "Y": 910,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/6.png"
    },{
 	         "nombre": "Palacio Oscuro",
                  "Categoría" : "Mazmorra",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1435,
-                 "Y": 430
+                 "Y": 430,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/19.png"
    },{
 	         "nombre": "Dominio Zora",
                  "Categoría" : "Lugar",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 1370,
-                 "Y": 198
+                 "Y": 198,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/20.png"
    },{
 	         "nombre": "Cueva de Kakariko",
                  "Categoría" : "Cueva",
 		 "Enemigos" : "Peligro: Inexistente",
                  "X" : 466,
-                 "Y": 469
+                 "Y": 469,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/1.png"
    },{
 	         "nombre": "Santuario",
                  "Categoría" : "Lugar",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 921,
-                 "Y": 310
+                 "Y": 310,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/12.png"
    },{
 	         "nombre": "Fortune Teller House",
                  "Categoría" : "Casa",
 		 "Enemigos" : "Peligro: Presentes",
                  "X" : 650,
-                 "Y": 358
+                 "Y": 358,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/4.png"
    },{
 	         "nombre": "Casa de Rosso",
                  "Categoría" : "Casa",
 		 "Enemigos" : "Peligro: Presente",
                  "X" : 789,
-                 "Y": 79
+                 "Y": 79,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/10.png"
    },{
 	         "nombre": "Herrería",
                  "Categoría" : "Casa",
 		 "Enemigos" : "Peligro: Inexistente",
                  "X" : 758,
-                 "Y": 561
+                 "Y": 561,
+		 "Foto" : "https://www.openprocessing.org/sketch/421296/files/9.jpg"
 	   }]
 }
